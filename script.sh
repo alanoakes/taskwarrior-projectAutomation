@@ -28,6 +28,6 @@ while :; do
 
 	fi
 	# que to build another project
-	read -r -p 'Do you want to build another data analysis project? (type "e" to exit or "n" to resume): '
+	read -r -p 'Do you want to build another software project? (type "e" to exit or "n" to resume): '
 	[[ "${REPLY}" == 'e' ]] && break
 done
