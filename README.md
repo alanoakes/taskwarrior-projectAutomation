@@ -36,4 +36,4 @@ As your process changes, you can modify project automation script.
 2. How is it process agnostic?
 3. Task ID's and dependencies are what define priorities.
 
-* [Youtube Video Resource](https://youtu.be/FhNHUbm5rg4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FhNHUbm5rg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
