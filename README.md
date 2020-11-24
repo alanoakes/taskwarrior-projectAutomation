@@ -30,7 +30,7 @@ As your process changes, you can modify project automation script.
 
 ## Walk Through <a name="03"></a>
 
-
+![ffmpeg mp4 to gif](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/AutoProjectSetup.gif)
 
 1. What is taskwarrior?
 2. How is it process agnostic?
