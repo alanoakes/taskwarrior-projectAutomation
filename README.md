@@ -14,8 +14,26 @@
 
 ## Summary
 
+I needed two things in my project management so I could could manage my projects
+and not manage my project management:
 
+1. Automation
+2. Iteration
+
+**Automation** has enabled me to do the same thing over and again where it was
+just redunancy. This tool is totally customizable to setup your taskwarrior
+projects with whatever specifications you prefer.
+
+**Iteration** has allowed me to see what is and what is not working. Without
+truly iterative functionality, it is impossible to test a methods efficacy.
+As your process changes, you can modify project automation script.
 
 ## Walk Through <a name="03"></a>
 
 
+
+1. What is taskwarrior?
+2. How is it process agnostic?
+3. Task ID's and dependencies are what define priorities.
+
+* [Video Resource]()
