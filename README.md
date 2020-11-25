@@ -2,10 +2,9 @@
 
 1. [Dependencies](#01)
 2. [Summary](#02)
-3. [Walk Through](#03)
+3. [Walk Through Tutorial](#03)
 
-![bashScript](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/carbon.png)
-
+![ffmpeg mp4 to gif](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/AutoProjectSetup.gif)
 
 ## Dependencies <a name="01"></a>
 
@@ -28,9 +27,9 @@ projects with whatever specifications you prefer.
 truly iterative functionality, it is impossible to test a methods efficacy.
 As your process changes, you can modify project automation script.
 
-## Walk Through <a name="03"></a>
+## Walk Through Tutorial <a name="03"></a>
 
-![ffmpeg mp4 to gif](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/AutoProjectSetup.gif)
+![bashScript](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/carbon.png)
 
 1. What is taskwarrior?
 2. How is it process agnostic?
