@@ -11,7 +11,7 @@ ProjDate="P$(date +%Y%m%d%H)-"
 Proj=""
 until [ ${#Proj} -eq '10' ]; do
   for x in $(echo {a..z}$(shuf -i 1-10 -r -n 1) | tr -d '\n' | tr -d ' '); do
-	for y in ${x:$((RANDOM%52+1)):1}; do
+    for y in ${x:$((RANDOM%52+1)):1}; do
       Proj="$Proj$y"
     done
   done
