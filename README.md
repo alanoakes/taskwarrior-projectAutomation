@@ -5,6 +5,8 @@
 3. [Walk Through Tutorial](#03)
 4. [Project ID Generation](#04)
 
+----
+
 ![ffmpeg mp4 to gif](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/AutoProjectSetup.gif)
 
 ## Dependencies <a name="01"></a>
