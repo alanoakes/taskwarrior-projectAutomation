@@ -3,6 +3,7 @@
 1. [Dependencies](#01)
 2. [Summary](#02)
 3. [Walk Through Tutorial](#03)
+4. [Project ID Generation](#04)
 
 ![ffmpeg mp4 to gif](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/AutoProjectSetup.gif)
 
@@ -35,4 +36,8 @@ As your process changes, you can modify project automation script.
 2. How is it process agnostic?
 3. Task ID's and dependencies are what define priorities.
 
-![Youtube Resource](https://www.youtube.com/embed/FhNHUbm5rg4)
+* [Youtube Resource](https://www.youtube.com/embed/FhNHUbm5rg4)
+
+## Project ID Generation <a name="04"></a>
+
+![projId](https://github.com/alanoakes/taskwarrior-projectAutomation/raw/master/projectId.PNG)
