@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # + ------------------------------------------------------------------------- +
 # ┏━┓┏━┓┏━┓╻┏ ┏━╸┏━┓ | Parker Oakes                                           +
 # ┣━┛┃ ┃┣━┫┣┻┓┣╸ ┗━┓ | alan.p.oakes@gmail.com                                 +
@@ -6,7 +6,6 @@
 # + ------------------------------------------------------------------------- +
 # File Description:
 # Generate Randomized Project ID Numbers with timestamp for Data Security
-
 ProjDate="P$(date +%Y%m%d%H)-"
 Proj=""
 until [ ${#Proj} -eq '10' ]; do
